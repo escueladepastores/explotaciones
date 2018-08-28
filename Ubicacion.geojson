@@ -1,1 +1,117 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":1,"Nombre":"Francisco Leon","Municipio":"Antequera","url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"},"geometry":{"type":"Point","coordinates":[-4.69105294,36.9803866]}},{"type":"Feature","properties":{"id":1,"Nombre":"Francisco León Gámez","Municipio":"Antequera","url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"},"geometry":{"type":"Point","coordinates":[-4.55016453,36.99535543999998]}},{"type":"Feature","properties":{"id":2,"Nombre":"Antonio Camacho","Municipio":"Los Blazquez","url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"},"geometry":{"type":"Point","coordinates":[-5.43157905,38.43340908]}},{"type":"Feature","properties":{"id":"3","Nombre":"jjjj","Municipio":"hhhhh","url-img":"https://raw.githubusercontent.com/escueladepastores/fichastutores/master/Antonio%20Abad%20Rubio.jpg"},"geometry":{"type":"Point","coordinates":[-4.902981172202234,37.80708793222897]}},{"type":"Feature","properties":{"id":"5","Nombre":"Antonio Abad Rubio Murillo","Municipio":"Hinojosa del Duque","url-img":"https://raw.githubusercontent.com/escueladepastores/fichastutores/master/Antonio%20Abad%20Rubio.jpg"},"geometry":{"type":"Point","coordinates":[-5.10801028330547,38.466784671318834]}},{"type":"Feature","properties":{"id":"null","Nombre":"David Remujo Agugo","Municipio":"Belmez - Córdoba","url-img":"null"},"geometry":{"type":"Point","coordinates":[-5.119722778510566,38.290933082903905]}},{"type":"Feature","properties":{"id":"6","Nombre":"Herminia Murillo Ortiz","Municipio":"Fuente Obejuna - Córdoba","url-img":"null"},"geometry":{"type":"Point","coordinates":[-5.43609104752216,38.27087100129372]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Nombre": "Francisco Leon",
+        "Municipio": "Antequera",
+        "url-img": "img:https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.69105294,
+          36.9803866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Nombre": "Francisco León Gámez",
+        "Municipio": "Antequera",
+        "url-img": "img:https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.55016453,
+          36.99535543999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Nombre": "Antonio Camacho",
+        "Municipio": "Los Blazquez",
+        "url-img": "img:https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43157905,
+          38.43340908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "Nombre": "jjjj",
+        "Municipio": "hhhhh",
+        "url-img": "img:https://raw.githubusercontent.com/escueladepastores/fichastutores/master/Antonio%20Abad%20Rubio.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.902981172202234,
+          37.80708793222897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "Nombre": "Antonio Abad Rubio Murillo",
+        "Municipio": "Hinojosa del Duque",
+        "url-img": "img:https://raw.githubusercontent.com/escueladepastores/fichastutores/master/Antonio%20Abad%20Rubio.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.10801028330547,
+          38.466784671318834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "null",
+        "Nombre": "David Remujo Agugo",
+        "Municipio": "Belmez - Córdoba",
+        "url-img": "img:https://raw.githubusercontent.com/escueladepastores/fichastutores/master/Antonio%20Abad%20Rubio.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.119722778510566,
+          38.290933082903905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "Nombre": "Herminia Murillo Ortiz",
+        "Municipio": "Fuente Obejuna - Córdoba",
+        "url-img": "img:https://raw.githubusercontent.com/escueladepastores/fichastutores/master/Antonio%20Abad%20Rubio.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43609104752216,
+          38.27087100129372
+        ]
+      }
+    }
+  ]
+}
