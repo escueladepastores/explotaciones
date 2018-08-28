@@ -1,10 +1,1 @@
-{
-"type": "FeatureCollection",
-
-"features": [
-{ "type": "Feature", "properties": { "id":1, "Nombre":"Francisco Leon", "Municipio":"Antequera", "url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg" }, "geometry": {"type":"Point","coordinates":[-4.69105294,36.9803866],"crs":{"type":"name","properties":{"name":"EPSG:4326"}}} },
-{ "type": "Feature", "properties": { "id":1, "Nombre":"Francisco León Gámez", "Municipio":"Antequera", "url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg" }, "geometry": {"type":"Point","coordinates":[-4.55016453,36.99535544],"crs":{"type":"name","properties":{"name":"EPSG:4326"}}} },
-{ "type": "Feature", "properties": { "id":2, "Nombre":"Antonio Camacho", "Municipio":"Los Blazquez", "url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg" }, "geometry": {"type":"Point","coordinates":[-5.43157905,38.43340908],"crs":{"type":"name","properties":{"name":"EPSG:4326"}}} }
-]
-
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":1,"Nombre":"Francisco Leon","Municipio":"Antequera","url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"},"geometry":{"type":"Point","coordinates":[-4.69105294,36.9803866]}},{"type":"Feature","properties":{"id":1,"Nombre":"Francisco León Gámez","Municipio":"Antequera","url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"},"geometry":{"type":"Point","coordinates":[-4.55016453,36.99535543999998]}},{"type":"Feature","properties":{"id":2,"Nombre":"Antonio Camacho","Municipio":"Los Blazquez","url-img":"https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"},"geometry":{"type":"Point","coordinates":[-5.43157905,38.43340908]}},{"type":"Feature","properties":{"id":"3","Nombre":"jjjj","Municipio":"hhhhh","url-img":"url"},"geometry":{"type":"Point","coordinates":[-4.902981172202234,37.807087932228974]}}]}
